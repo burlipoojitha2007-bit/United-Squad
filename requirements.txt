@@ -1,1 +1,4 @@
-gradio\npandas\nplotly\npymupdf\n
+gradio
+pandas
+plotly
+pymupdf
